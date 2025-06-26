@@ -7,8 +7,6 @@ Developed an IoT-based system using ESP32, sensors, and Blynk IoT to detect fore
   <img src="https://github.com/Manikanta-123456/Human-Activity-Recognization-Model/blob/main/Forest%20fire%20detection%20prototype.jpg?raw=true" width="500" alt="Forest Fire Detection Prototype">
 </p>
 
-
-
 [![Arduino](https://img.shields.io/badge/Made%20with-Arduino-blue)](https://www.arduino.cc/)
 [![IoT](https://img.shields.io/badge/Technology-IoT-green)]()
 [![ESP32](https://img.shields.io/badge/Hardware-ESP32-orange)]()
