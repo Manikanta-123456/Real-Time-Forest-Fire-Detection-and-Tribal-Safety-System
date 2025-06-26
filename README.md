@@ -4,7 +4,7 @@ Developed an IoT-based system using ESP32, sensors, and Blynk IoT to detect fore
 # 🌲 Real-Time Forest Fire Detection and Tribal Safety System
 
 <p align="center">
-  <img src="https://github.com/Manikanta-123456/Human-Activity-Recognization-Model/blob/main/Forest%20fire%20detection%20prototype.jpg?raw=true" width="500" alt="Forest Fire Detection Prototype">
+  <img src="https://github.com/Manikanta-123456/Real-Time-Forest-Fire-Detection-and-Tribal-Safety-System/blob/main/Forest%20fire%20detection%20prototype.jpg?raw=true" width="500" alt="Forest Fire Detection Prototype">
 </p>
 
 [![Arduino](https://img.shields.io/badge/Made%20with-Arduino-blue)](https://www.arduino.cc/)
