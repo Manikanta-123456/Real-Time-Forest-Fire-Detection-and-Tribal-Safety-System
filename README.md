@@ -3,7 +3,10 @@
 Developed an IoT-based system using ESP32, sensors, and Blynk IoT to detect forest fires and toxic gases in real time. Triggered buzzer alerts, automatic water spraying, and mobile notifications with location tags to protect tribal areas. Ensured fast response and scalable forest coverage.Add commentMore actions
 # 🌲 Real-Time Forest Fire Detection and Tribal Safety System
 
-![Project Prototype](Forest%20fire%20detection%20prototype.jpg)
+<p align="center">
+  <img src="https://github.com/Manikanta-123456/Real-Time-Forest-Fire-Detection-and-Tribal-Safety-System/blob/main/Forest%20fire%20detection%20prototype.jpg?raw=true" width="500" alt="Forest Fire Detection Prototype">
+</p>
+
 
 [![Arduino](https://img.shields.io/badge/Made%20with-Arduino-blue)](https://www.arduino.cc/)
 [![IoT](https://img.shields.io/badge/Technology-IoT-green)]()
